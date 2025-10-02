@@ -1,0 +1,14 @@
+# Temporary files
+compile_commands.json
+
+# Temporary folders
+Project\ Backups/
+build/
+_build/
+cmake/
+dist/
+debug/
+out/
+
+# Hidden folders
+.vscode/
